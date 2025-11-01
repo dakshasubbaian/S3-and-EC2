@@ -80,9 +80,9 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 
 
 ## EC2 (Elastic Compute Cloud) – Instance  
-<img width="961" height="701" alt="image" src="https://github.com/user-attachments/assets/20a2d1f0-dd33-4348-9cdc-d1157c83eb78" />
 
-<img width="969" height="709" alt="image" src="https://github.com/user-attachments/assets/85e55516-4f7b-4d50-85be-3258ad52639c" />
+<img width="1110" height="787" alt="image" src="https://github.com/user-attachments/assets/2b30440e-77e4-49fa-a8fa-87d8843afe63" />
+
 
 
 
